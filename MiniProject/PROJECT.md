@@ -1,6 +1,6 @@
 # To-Do List
 
-A simple command-line to-do list application in Python. This application allows users to add, view, delete, and mark tasks as completed. Tasks are saved to a file, so they persist even after restarting the program.
+A simple command-line to-do list in Python. This application allows users to add, view, delete, and mark tasks as completed. Tasks are saved to a file, so they persist even after restarting the program.
 
 ## Features
 
