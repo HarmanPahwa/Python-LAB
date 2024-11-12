@@ -22,6 +22,7 @@ Tasks are stored in a file named `tasks.txt`. Each task has a status (`pending` 
 2. Add a task
 3. Delete a task
 4. Mark task as completed
-5. Exit Choose an option (1-5): 1 Your tasks:
-6. Buy groceries [✘]
-7. Finish homework [✔] ...
+5. Exit Choose an option (1-5): 1
+ Your tasks:
+ Buy groceries [✘]
+ Finish homework [✔] ...
