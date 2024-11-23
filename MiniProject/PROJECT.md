@@ -14,19 +14,8 @@ A simple to-do list application built using Python and Tkinter for the graphical
 
 The application uses the Tkinter library for the GUI. Tasks are saved in a `tasks.txt` file with each task having a status (`pending` or `completed`). When you close the application, the tasks are written to the file and reloaded the next time the program starts.
 
-### Example
---- To-Do List ---
-
-1. View tasks
-2. Add a task
-3. Delete a task
-4. Mark task as completed
-5. Exit Choose an option (1-5): 1 Your tasks:
- Buy groceries [✘]
- Finish homework [✔] ...
-
-##Interface
-###The application window includes:
+## Interface
+### The application window includes:
 
 - An input field to type new tasks.
 - A "Add Task" button to add tasks.
